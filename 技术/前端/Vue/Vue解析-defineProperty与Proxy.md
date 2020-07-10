@@ -1,4 +1,4 @@
-# 数据get set
+# Vue解析 defineProperty与Proxy
 
 老说vue2，数组对象不行，不行在哪？
 老说vue3上来，这些数组对象的问题都解决了，到底解决了什么？是真的没有问题了吗？
