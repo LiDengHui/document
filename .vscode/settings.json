@@ -1,5 +1,8 @@
 {
-  "formatter-pug.tabSize": 4,
   "prettier.tabWidth": 4,
-  "vetur.format.options.tabSize": 4
+  "vetur.format.options.tabSize": 4,
+  "prettier.trailingComma": "all",
+  "editor.formatOnSave": true,
+  "files.autoSave": "onFocusChange",
+  "prettier.packageManager": "yarn"
 }
